@@ -1,8 +1,9 @@
-# DBMS
 # Library Management Database System
 
 ## Project Description
 This Library Management Database System is designed to capture the linkages and exchanges between various entities, including authors, books, categories, departments, publishers, loans, members, staff members, and payments. The goal is to facilitate efficient tracking of library resources, member activities, and financial transactions while ensuring data integrity and efficient querying.
+
+I and my group members developed this project, incorporating various database design principles and practical implementations. Through this project, I have gained hands-on experience in SQL Data Definition Language (DDL), database management, and Microsoft Access software.
 
 ## Database Entities and Attributes
 
@@ -97,6 +98,12 @@ This Library Management Database System is designed to capture the linkages and 
 - Financial tracking is limited to basic loan payments.
 - Focus is on managing books, authors, members, and staff efficiently.
 
+## Skills Gained
+- **SQL Data Definition Language (DDL)**: Learned how to create, modify, and manage database schemas.
+- **Database Management**: Gained experience in designing and managing relational databases.
+- **Microsoft Access**: Utilized Microsoft Access for database implementation and testing.
+- **Normalization and Data Integrity**: Ensured efficient structuring and integrity of data relationships.
+
 ## How to Use
 1. Clone the repository:
    ```sh
@@ -110,4 +117,3 @@ Feel free to contribute by creating pull requests or opening issues.
 
 ## License
 This project is licensed under the MIT License.
-
